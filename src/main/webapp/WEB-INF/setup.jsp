@@ -50,7 +50,6 @@
 <div class="container">
 
   <h1>Moviefun</h1>
-
   <h2>Seeded Database with the Following movies</h2>
   <table width="500">
     <tr>
